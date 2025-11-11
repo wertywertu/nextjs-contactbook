@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "Werty",
+      "email": "qwerty@gmail.com",
+      "number": "22234312",
+      "userId": "1",
+      "id": "0da3"
+    },
+    {
+      "id": "2e20",
+      "name": "Werty123",
+      "email": "user@gmail.com",
+      "number": "12341241",
+      "userId": "1762777538300"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1762777439216",
+      "name": "Qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1762777538300",
+      "name": "Werty123",
+      "email": "werty123@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1762778633367",
+      "name": "Asjay",
+      "email": "asjay@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
