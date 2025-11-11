@@ -4,7 +4,7 @@ import axios from "axios";
 import { UserType } from "../_types/user";
 import { deleteSession, setSession } from "../_lib/session";
 
-const API_URL = "http://localhost:3001"
+const API_URL = "https://nextjs-contactbook.onrender.com/"
 
 export const loginAction = async(formData: FormData) => {
     try {
